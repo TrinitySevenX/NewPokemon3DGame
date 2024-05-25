@@ -1,0 +1,2 @@
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BPA_Encounter_C_UAID_60DD8E1062AFA5F501_1310848919
+/Game/PokemonInfo/EncounterInfo/BPA_Encounter.BPA_Encounter_C

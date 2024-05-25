@@ -1,0 +1,2 @@
+/Game/PokemonInfo/EncounterInfo/BPA_Encounter.Default__BPA_Encounter_C
+/Game/PokemonInfo/EncounterInfo/BPA_Encounter.BPA_Encounter_C

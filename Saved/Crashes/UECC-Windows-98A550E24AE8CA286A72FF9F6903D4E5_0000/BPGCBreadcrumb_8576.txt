@@ -1,0 +1,2 @@
+/Engine/Transient.World_40:PersistentLevel.BPA_Encounter_C_0
+/Game/PokemonInfo/EncounterInfo/BPA_Encounter.BPA_Encounter_C
